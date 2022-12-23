@@ -1,0 +1,180 @@
+16:27:21.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+16:27:21.488 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+16:27:22.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+16:27:22.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+16:27:22.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+16:27:22.743 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+16:27:22.886 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+16:27:24.018 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+16:47:39.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+16:47:39.344 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+16:47:39.968 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+16:47:40.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+16:47:40.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+16:47:40.402 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+16:47:40.589 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+16:47:41.714 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+16:55:46.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+16:55:47.050 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+16:55:47.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+16:55:48.084 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+16:55:48.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+16:55:48.405 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+16:55:48.647 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+16:55:50.115 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:17:22.991 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:17:23.157 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:17:23.379 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:17:24.625 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:17:25.461 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:17:25.793 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:17:25.950 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:17:26.202 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:17:26.581 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:17:26.636 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:17:26.921 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:17:27.105 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:17:27.514 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:17:27.764 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:17:28.296 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:17:28.936 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:17:30.065 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:17:30.355 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:17:31.267 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:17:31.315 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:17:31.348 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:17:31.383 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:17:31.410 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:17:31.434 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:27:50.447 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:27:50.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:27:52.113 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:27:52.257 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:27:52.377 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:27:52.522 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:27:52.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:27:53.853 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:51:42.374 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:51:42.519 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:51:44.616 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:51:44.787 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:51:44.974 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:51:45.144 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:51:45.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:51:46.566 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+17:56:57.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+17:56:57.740 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+17:57:00.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+17:57:00.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+17:57:00.875 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+17:57:01.036 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+17:57:01.173 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+17:57:02.386 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+18:12:18.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+18:12:18.706 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+18:12:19.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+18:12:19.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+18:12:20.009 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+18:12:20.140 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+18:12:20.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+18:12:21.419 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+11:06:50.427 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+11:06:51.843 [main] INFO  testCases.TC_002_LoginTest - *******Entered details*********** 
+11:09:36.747 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+11:09:37.841 [main] INFO  testCases.TC_002_LoginTest - *******Entered details*********** 
+12:09:34.744 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+12:09:35.866 [main] INFO  testCases.TC_002_LoginTest - *******Entered password*********** 
+12:09:35.977 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+12:12:50.180 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+12:12:50.358 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+12:12:50.853 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+12:12:51.057 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+12:12:51.166 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+12:12:51.268 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+13:37:12.319 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT***** 
+13:37:12.427 [main] INFO  testCases.TC_003_LoginDDT - *******Clicked Myaccount *********** 
+13:37:12.933 [main] INFO  testCases.TC_003_LoginDDT - ******Clicked login *********** 
+13:37:13.123 [main] INFO  testCases.TC_003_LoginDDT - *******Entered email ***********
+13:37:13.234 [main] INFO  testCases.TC_003_LoginDDT - ***Entered password*****
+13:37:13.329 [main] INFO  testCases.TC_003_LoginDDT - Clicked login 
+13:37:23.636 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT***** 
+13:37:23.693 [main] INFO  testCases.TC_003_LoginDDT - *******Clicked Myaccount *********** 
+13:37:24.177 [main] INFO  testCases.TC_003_LoginDDT - ******Clicked login *********** 
+13:37:24.272 [main] INFO  testCases.TC_003_LoginDDT - *******Entered email ***********
+13:37:24.345 [main] INFO  testCases.TC_003_LoginDDT - ***Entered password*****
+13:37:24.411 [main] INFO  testCases.TC_003_LoginDDT - Clicked login 
+13:37:34.481 [main] INFO  testCases.TC_003_LoginDDT - *****Finsihed TC_003_LoginDDT***** 
+13:37:34.488 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT***** 
+13:37:34.558 [main] INFO  testCases.TC_003_LoginDDT - *******Clicked Myaccount *********** 
+13:37:35.166 [main] INFO  testCases.TC_003_LoginDDT - ******Clicked login *********** 
+13:37:35.296 [main] INFO  testCases.TC_003_LoginDDT - *******Entered email ***********
+13:37:35.419 [main] INFO  testCases.TC_003_LoginDDT - ***Entered password*****
+13:37:35.481 [main] INFO  testCases.TC_003_LoginDDT - Clicked login 
+13:37:45.518 [main] INFO  testCases.TC_003_LoginDDT - *****Finsihed TC_003_LoginDDT***** 
+13:37:45.522 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT***** 
+13:37:45.607 [main] INFO  testCases.TC_003_LoginDDT - *******Clicked Myaccount *********** 
+13:37:46.124 [main] INFO  testCases.TC_003_LoginDDT - ******Clicked login *********** 
+13:37:46.232 [main] INFO  testCases.TC_003_LoginDDT - *******Entered email ***********
+13:37:46.320 [main] INFO  testCases.TC_003_LoginDDT - ***Entered password*****
+13:37:46.402 [main] INFO  testCases.TC_003_LoginDDT - Clicked login 
+13:37:56.429 [main] INFO  testCases.TC_003_LoginDDT - *****Finsihed TC_003_LoginDDT***** 
+13:37:56.434 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT***** 
+13:37:56.491 [main] INFO  testCases.TC_003_LoginDDT - *******Clicked Myaccount *********** 
+13:37:57.010 [main] INFO  testCases.TC_003_LoginDDT - ******Clicked login *********** 
+13:37:57.127 [main] INFO  testCases.TC_003_LoginDDT - *******Entered email ***********
+13:37:57.217 [main] INFO  testCases.TC_003_LoginDDT - ***Entered password*****
+13:37:57.286 [main] INFO  testCases.TC_003_LoginDDT - Clicked login 
+15:16:57.157 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+15:16:57.322 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+15:16:57.942 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+15:16:58.320 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+15:16:58.450 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+15:16:58.525 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+15:18:32.134 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+15:18:32.375 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+15:18:32.956 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+15:18:33.189 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+15:18:33.344 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+15:18:33.441 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+20:17:58.507 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+20:17:58.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+20:17:59.677 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+20:17:59.878 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+20:18:00.059 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+20:18:00.608 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+20:18:00.729 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+20:18:01.908 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+20:18:05.742 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+20:18:05.857 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+20:18:06.396 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+20:18:06.581 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+20:18:06.688 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+20:18:06.761 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+11:34:00.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+11:34:01.021 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+11:34:01.809 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+11:34:01.926 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+11:34:02.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+11:34:02.188 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+11:34:02.307 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+11:34:03.470 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+11:34:07.257 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+11:34:07.386 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+11:34:07.893 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+11:34:08.143 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+11:34:08.248 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+11:34:08.360 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
+11:38:25.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********Starting TC_001_AccountRegistrationTest**********
+11:38:25.503 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on My account
+11:38:26.273 [main] INFO  testCases.TC_001_AccountRegistrationTest - CLicked on Register
+11:38:26.443 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered first name.
+11:38:26.580 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered last name.
+11:38:26.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered E-mail.
+11:38:26.872 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entered password.
+11:38:28.004 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed.
+11:38:31.641 [main] INFO  testCases.TC_002_LoginTest - *******Starting TC_002_LoginTest*********** 
+11:38:31.751 [main] INFO  testCases.TC_002_LoginTest - *******Clicked Myaccount *********** 
+11:38:32.226 [main] INFO  testCases.TC_002_LoginTest - ******Clicked login *********** 
+11:38:32.636 [main] INFO  testCases.TC_002_LoginTest - *******Entered email ***********
+11:38:32.758 [main] INFO  testCases.TC_002_LoginTest - ***Entered password*****
+11:38:32.853 [main] INFO  testCases.TC_002_LoginTest - Clicked login 
